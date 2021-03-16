@@ -1,0 +1,1 @@
+# jsonsubtypes-openapi-autogen
