@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lemick</groupId>
-    <artifactId>demo-javassist</artifactId>
+    <artifactId>jsonsubtypes-openapi-autogen</artifactId>
     <version>1.0.0</version>
 
     <properties>
