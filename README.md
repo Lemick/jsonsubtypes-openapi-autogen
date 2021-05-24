@@ -29,7 +29,7 @@ Will be transformed to this class at `process-classes` phase :
 public class Instrument {
 ```
 
-## How To Use
+## How To Demonstrate
 In the repo:
 
     cd jsonsubtypes-openapi-autogen/
