@@ -1,7 +1,7 @@
 
 # Jsonsubtypes Openapi Autogen
 
-A program that uses `javassist-maven-plugin`  to add OpenAPI @Schema annotations using bytecode manipulation (thanks to Javassist API)
+A program that uses `javassist-maven-plugin`  to add OpenAPI @Schema annotations by using bytecode manipulation (thanks to Javassist API)
 
 This class:
 ```java
